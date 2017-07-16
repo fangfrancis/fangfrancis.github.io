@@ -11,6 +11,7 @@ description:         Senior Business Analyst @ Baidu, HUSTer, Father, Wuhan - Be
 url:                 
 baseurl:             ''
 paginate:            5
+plugins: [jekyll-paginate]
 
 # About/contact
 author:
@@ -18,5 +19,4 @@ author:
   url:               https://twitter.com/fangfrancis
   email:             fangfrancis@gmail.com
 
-# Custom vars
-version:             1.0.0
+
