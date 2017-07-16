@@ -8,7 +8,7 @@ tags: BAI, Andrew Ng
 
 前两天，吴恩达（Andrew Ng）教授在 [twitter](https://twitter.com/AndrewYNg/status/884810469575344128) 上贴出了一封来自读者的邮件，并询问 AI 从业者，如何应答来自放射科从业者的焦虑？
 
-![AndrewNg_radiology](../images/AndrewNg_radiology.png)
+![AndrewNg_radiology](/images/AndrewNg_radiology.png)
 
 我的看法是：
 
