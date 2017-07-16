@@ -10,8 +10,9 @@ tagline:             My Thoughts On Everything
 description:         Senior Analyst @ Baidu, HUSTer, Father, Wuhan → Beijing, love Podcast, Typography, MOOC, and Table Tennis.
 url:                 
 baseurl:             ''
+plugins:             [jekyll-paginate]
 paginate:            5
-plugins: [jekyll-paginate]
+paginate_path:       "page:num"
 
 # About/contact
 author:
