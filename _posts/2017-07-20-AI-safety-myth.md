@@ -9,7 +9,7 @@ Elon Musk[^1] 最近又在谈 AI 对于人类的[潜在威胁](http://www.npr.or
 
 在 AI 问题上，部分议题确有争论，就连顶尖科学家都没有达成共识，但也有很多议题属于不必要的争议，或者说是公众对其的迷思。[FLI](https://futureoflife.org/) 对此进行了很好地[概括](https://futureoflife.org/background/aimyths/)，我试译如下：
 
-![Myth](images/myths.jpg)
+![Myth](/images/myths.jpg)
 
 ## 1. 时间推断上的迷思
 
