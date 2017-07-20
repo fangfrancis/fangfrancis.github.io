@@ -57,4 +57,4 @@ Elon Musk[^1] 最近又在谈 AI 对于人类的[潜在威胁](http://www.npr.or
 
 ---
 
-[^1]: 我觉得 Elon Musk 和 Stephen Hawking 有个共同点是，他们都在以百年或是更长的时间尺度在思考。
+[^1]: 译注：我觉得 Elon Musk 和 Stephen Hawking 有个共同点，他们都在以百年或是更长的时间尺度在思考。
