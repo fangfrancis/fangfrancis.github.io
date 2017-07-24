@@ -2,7 +2,7 @@
 layout: post
 title: 科技小清新
 category: culture
-tags: technology,  small fresh, institutionalized, Google
+tags: technology, small fresh, institutionalized, Google, fun culture
 ---
 
 周五坐公交车上班的路上，在马连洼附近看到这么一幅标语「科技小清新  文化一家亲」，一时有些茫然。
