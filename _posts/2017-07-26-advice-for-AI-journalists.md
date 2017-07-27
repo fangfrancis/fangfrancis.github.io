@@ -8,6 +8,7 @@ tags: AI, journalist, Alan Turing
 人工智能作为当前热门领域，充斥着太多「专家」和「洞见」。作为从业者，我们不希望人工智能又如前两次那样再次[落入低谷](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)，因此需要向公众传达尽量真实、准确的信息，近日看到纽约大学 [Julian Togelius](https://en.wikipedia.org/wiki/Julian_Togelius) 教授的《[Some advice for journalists writing about artificial intelligence](http://togelius.blogspot.com/2017/07/some-advice-for-journalists-writing.html)》一文，深有感触，特翻译出来与大家共勉。
 
 ![fake news](/images/fake-news.jpg)
+（题图来自 [Geek Diaries](http://www.tasosmartidis.com/)）
 
 ---
 
