@@ -43,7 +43,7 @@ tags: technology, small fresh, institutionalized, Google, fun culture
 
 但与此同时，她们又拒绝了现实中存在的更多选项，比如 Siri 的笨拙、Chrome 的极简、今日头条的冰冷、A 站的中二……面对这些优秀的产品，她们或是「事不关己」地进行选择性无视，又或是「自我安慰」地认为存在即合理。能认可大家的不同，也能接受大家的不同，这是小清新唯一的态度。
 
-小清新从本能上最反感的一个词是「强度」，因为它不仅意味着「程度」，也意味着「投入」。乔布斯的[「不同凡想」](https://en.wikipedia.org/wiki/Think_different)是需要强度的，科比的[「曼巴精神」](https://baike.baidu.com/item/%E6%9B%BC%E5%B7%B4%E7%B2%BE%E7%A5%9E)是需要强度的，李小龙的「[武道实践](https://zhuanlan.zhihu.com/p/22208356)」是需要强度的，原研哉的[「素手时然」](https://book.douban.com/subject/26438528/)也是需要强度的。
+小清新从本能上最反感的一个词是「强度」，因为它不仅意味着「程度」，也意味着「投入」。乔布斯的[「不同凡想」](https://en.wikipedia.org/wiki/Think_different)是需要强度的，科比的[「曼巴精神」](https://baike.baidu.com/item/%E6%9B%BC%E5%B7%B4%E7%B2%BE%E7%A5%9E)是需要强度的，李小龙的[「武道实践」](https://zhuanlan.zhihu.com/p/22208356)是需要强度的，原研哉的[「素手时然」](https://book.douban.com/subject/26438528/)也是需要强度的。
 
 小清新在给予自己这个标签的同时，也把放弃努力这一姿态合理化[^1]。
 
