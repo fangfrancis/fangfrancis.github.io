@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 科技小清新
-category: culture
+category: Culture
 tags: technology, small fresh, institutionalized, Google, fun culture
 ---
 
