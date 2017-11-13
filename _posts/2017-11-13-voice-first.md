@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI 时代的思维范式
+title: 语音优先的时代，真的好吗？
 category: Productivity
 tags: Voice, Writing, Complexity
 ---
