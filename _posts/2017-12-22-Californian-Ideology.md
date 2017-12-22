@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 译文|加州意识形态 The California Ideology
+title: 译文 | 加州意识形态 The California Ideology
 category: Culture
 tags: Technology, Politics, Media
 ---
