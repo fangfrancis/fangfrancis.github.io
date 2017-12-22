@@ -7,7 +7,7 @@ tags: Technology, Politics, Media
 
 ![californian ideology](/images/califideo.jpg)
 
-（题图来自 [[Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/2013/04/30/a-counter-history-of-the-california-ideology/) ）
+（题图来自 [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/2013/04/30/a-counter-history-of-the-california-ideology/) ）
 
 
 
@@ -19,7 +19,7 @@ tags: Technology, Politics, Media
 
 「不对未来撒谎是不可能的，人们可以随意撒谎。」- Naum Gabo
 
-There is an emerging global orthodoxy concerning the relation between society, technology and politics. We have called this orthodoxy `the Californian Ideology' in honour of the state where it originated. By naturalising and giving a technological proof to a libertarian political philosophy, and therefore foreclosing on alternative futures, the Californian Ideologues are able to assert that social and political debates about the future have now become meaningless. 
+There is an emerging global orthodoxy concerning the relation between society, technology and politics. We have called this orthodoxy 'the Californian Ideology' in honour of the state where it originated. By naturalising and giving a technological proof to a libertarian political philosophy, and therefore foreclosing on alternative futures, the Californian Ideologues are able to assert that social and political debates about the future have now become meaningless. 
 
 关于社会，技术和政治之间的关系，出现了一个新兴的全球性正统观点。 为了纪念其发源地，我们将这个正统称为「加州意识形态」（the Californian Ideology）。通过对自由主义的政治哲学进行归化和技术论证，从而排除其他未来，加州意识形态能够断言关于未来的社会和政治辩论已经变得毫无意义。
 
