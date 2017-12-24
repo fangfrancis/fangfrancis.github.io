@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 译文 | 加州意识形态 The California Ideology
+title: 译文 | 加州意识形态 The Californian Ideology
 category: Culture
 tags: Technology, Politics, Media
 ---
@@ -99,7 +99,7 @@ One of the weirdest things about the Californian Ideology is that the West Coast
 
 All of this public funding has had an enormously beneficial - albeit unacknowledged and uncosted - effect on the subsequent development of Silicon Valley and other hi-tech industries. Entrepreneurs often have an inflated sense of their own 'creative act of will' in developing new ideas and give little recognition to the contributions made by either the state or their own labour force. However, all technological progress is cumulative - it depends on the results of a collective historical process and must be counted, at least in part, as a collective achievement. Hence, as in every other industrialised country, American entrepreneurs have in fact relied on public money and state intervention to nurture and develop their industries. When Japanese companies threatened to take over the American microchip market, the libertarian computer capitalists of California had no ideological qualms about joining a state-sponsored cartel organised by the state to fight off the invaders from the East! 
 
-所有这些公共资金都对硅谷和其他高科技产业的后续发展产生了极为正面的影响，尽管这些都未被承认，也未被计算。企业家往往夸大了对自己「创造性行为」的认知，他们在实现新想法时，几乎都不承认来自国家或是自己劳动力的贡献。然而，所有的技术进步都是累积的——这取决于集体历史进程的结果，至少在一定程度上是一项集体成就。因此，与其他所有工业化国家一样，美国的企业家实际上依靠了公共资金和国家干预来培育和发展他们的产业。当日本公司威胁要占领美国微处理器市场时，加州的自由主义计算机资本家对于加入由国家组织的反东方侵略者的利益集团，没有任何意识形态上的不安。
+所有这些公共资金都对硅谷和其他高科技产业的后续发展产生了极为正面的影响，尽管这些都未被承认，也未被计算。企业家往往夸大了对自己「创造性行为」的认知，他们在实现新想法时，几乎都不承认来自国家或是自己劳动力的贡献。然而，所有的技术进步都是累积的——这取决于集体历史进程的结果，至少在一定程度上是一项集体成就。因此，与其他所有工业化国家一样，美国的企业家实际上依靠了公共资金和国家干预来培育和发展他们的产业。当日本公司威胁要占领美国微处理器市场时，加州的自由主义计算机资本家对于加入由国家组织的反东方侵略者的利益集团，没有任何意识形态上的不安！
 
 **Masters and Slaves**
 
@@ -175,4 +175,4 @@ We need to debate what kind of hypermedia suit our vision of society - how we cr
 
 ---
 
-[^1]: 事实上，它是一种机械装置。在有两层楼以上的餐厅用于送餐的升降机。
+[^1]: 事实上，它是一种机械装置，在有两层楼以上的餐厅用于送餐的升降机。
