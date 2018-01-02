@@ -64,7 +64,7 @@ tags: Technology, Social, AI
 
 在我们思考的同时，也许社会又将发生新的巨变——这就是 AI 时代的来临。
 
-其实，相对于 Artificial Intelligence（人工智能），我更喜欢 Machine Intelligence（机器智能）这个词，因为它更能代表对「人类中心主义」思想的破除。前有 Nicolas Copernicus、Charles Darwin、Sigmund Freud，后有Yuval Harari[^2]，都试图告诉我们，人类并不是宇宙的中心，甚至也不是地球的中心，而只是茫茫生物中的普通一员。
+其实，相对于 Artificial Intelligence（人工智能），我更喜欢 Machine Intelligence（机器智能）这个词，因为它更能代表对「人类中心主义」思想的破除。前有 Nicolas Copernicus、Charles Darwin、Sigmund Freud，后有 Yuval Harari[^2]，都试图告诉我们，人类并不是宇宙的中心，甚至也不是地球的中心，而只是茫茫生物中的普通一员。
 
 也许，作为目前在地球上的绝对统治者，多数人很难接受自己并非「万物之灵」，但随着 AI 技术的不断演进，AGI（通用人工智能）时代或许即将到来。美国未来学家 Ray Kurzweil 曾预测到 2029 年前 AI 会达到人类的智慧水平，而到 2045 年，信息会达到一个奇点，那时候人类将永生，取而代之的是人机融合的「超级人类」。
 
