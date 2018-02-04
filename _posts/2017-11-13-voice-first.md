@@ -11,7 +11,7 @@ tags: Voice, Writing, Complexity
 
 
 
-## 文字定义的思维范式
+## **文字定义的思维范式**
 
 文字因何而伟大？
 
@@ -21,9 +21,9 @@ tags: Voice, Writing, Complexity
 
 工具决定了思维范式，同时也决定了认知世界的复杂度。
 
+  
 
-
-## Super Easy To Use
+## **Super Easy To Use**
 
 Steve Jobs 常说，iOS 系列的设计目标是「super easy to use」。
 
@@ -35,9 +35,9 @@ Alan Kay 最近在接受 [Fast Company 的采访](https://www.fastcompany.com/40
 
 工具使用起来超级简单的后果，就是认知世界的复杂度也变得超级简单。
 
+  
 
-
-## Voice First, Oral Society
+## **Voice First, Oral Society**
 
 Amazon Alexa、Google Assistant、Microsoft Cortana、Baidu DuerOS……随着智能音箱和语音助理的兴起，让 AI 听懂、理解自然语言，成为了各个互联网巨头竞相发力的重点，甚至有人提出即将到来的是一个「Voice First」的时代。
 
@@ -49,9 +49,9 @@ Amazon Alexa、Google Assistant、Microsoft Cortana、Baidu DuerOS……随着�
 
 而这，也是我对 Voice First 时代的担忧。
 
+  
 
-
-## AI 时代的思维范式如何进化？
+## **AI 时代的思维范式如何进化？**
 
 那么视频呢？
 
