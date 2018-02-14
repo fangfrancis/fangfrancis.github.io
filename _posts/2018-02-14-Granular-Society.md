@@ -103,9 +103,6 @@ tags: Granular, Society, Technology
 
 智能机器大规模使用导致的知识、技术和经济机会的重新分配，不仅发生在人与人之间，也会发生在人与机器之间。能从中受益的，主要是那些[懂得如何与智能机器交流合作的人](https://twitter.com/reformedbroker/status/872894663426019329)。而对于其他人来说，这关系到他们的工作和生存。
 
-<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">Only 3 jobs in the future:<br><br>1. People who tell the robots what to do<br><br>2. People who are told what to do by the robots<br><br>3. Robot repair</p>&mdash; Downtown Josh Brown (@ReformedBroker) <a href="https://twitter.com/ReformedBroker/status/872894663426019329?ref_src=twsrc%5Etfw">2017年6月8日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 **你作何选择？**
 
 是像有人道主义倾向的人类那样建立起对抗机器堡垒，还是像专家群体一样与机器结盟，实现真正的高效率？
