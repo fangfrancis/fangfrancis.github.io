@@ -2,7 +2,7 @@
 layout: post
 title: 开源的可持续性
 category: Trends
-tags: Open Source, Business Model, Sustainabliity
+tags: Open Source, Business Model, Sustainablity
 ---
 
 ![digital infrastructure](/images/digital-infra.png)
